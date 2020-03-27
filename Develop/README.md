@@ -1,15 +1,16 @@
 
     
     
+![](https://avatars0.githubusercontent.com/u/60150435?v=4) 
     
-    
-      
-    
-    
-# asdasdad
+     
+![](https://img.shields.io/badge/WASH-HANDS-red) 
+![](https://img.shields.io/badge/BECAUSE-OF-brightgreen)
+![](https://img.shields.io/badge/CORONA-VIRUS!!!!!!!!!!!-ff69b4)  
+# Read-Me-Generator
 
 
-asdas
+it will generate your readme cause programmers are lazy
 
 
 
@@ -36,13 +37,13 @@ asdas
 To install run the following:
 
   
-  da
+  npm install
   
 
 
   ## Usage
 
-  sd
+  not much
 
   ## License
 

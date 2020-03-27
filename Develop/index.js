@@ -64,11 +64,12 @@ const data = response.data;
 const readme = `
     
     
+![](${data.avatar_url}) 
     
-    
-      
-    
-    
+     
+![](https://img.shields.io/badge/WASH-HANDS-red) 
+![](https://img.shields.io/badge/BECAUSE-OF-brightgreen)
+![](https://img.shields.io/badge/CORONA-VIRUS!!!!!!!!!!!-ff69b4)  
 # ${ans.projectName}
 
 
@@ -87,9 +88,7 @@ ${ans.description}
   
   * [Contributing](#contributing)
   
-  * [Tests](#tests)
   
-  * [Questions](#questions)
 
 
 
